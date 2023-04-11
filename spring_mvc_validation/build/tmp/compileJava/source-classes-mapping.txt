@@ -1,0 +1,10 @@
+hello/itemservice/web/validation/ValidationItemControllerV1.java
+ hello.itemservice.web.validation.ValidationItemControllerV1
+hello/itemservice/ItemServiceApplication.java
+ hello.itemservice.ItemServiceApplication
+hello/itemservice/TestDataInit.java
+ hello.itemservice.TestDataInit
+hello/itemservice/domain/item/Item.java
+ hello.itemservice.domain.item.Item
+hello/itemservice/domain/item/ItemRepository.java
+ hello.itemservice.domain.item.ItemRepository
