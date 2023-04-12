@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.itemservice.validation.MessageCodesResolverTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-12T21:54:21" hostname="iseung-yeon-ui-MacBookAir.local" time="0.04">
+  <properties/>
+  <testcase name="messageCodeResolverObject()" classname="hello.itemservice.validation.MessageCodesResolverTest" time="0.038"/>
+  <testcase name="messageCodesResolverField()" classname="hello.itemservice.validation.MessageCodesResolverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
