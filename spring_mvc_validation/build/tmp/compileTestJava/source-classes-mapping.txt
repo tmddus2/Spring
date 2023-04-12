@@ -1,0 +1,8 @@
+hello/itemservice/ItemServiceApplicationTests.java
+ hello.itemservice.ItemServiceApplicationTests
+hello/itemservice/domain/item/ItemRepositoryTest.java
+ hello.itemservice.domain.item.ItemRepositoryTest
+hello/itemservice/message/MessageSourceTest.java
+ hello.itemservice.message.MessageSourceTest
+hello/itemservice/validation/MessageCodesResolverTest.java
+ hello.itemservice.validation.MessageCodesResolverTest
