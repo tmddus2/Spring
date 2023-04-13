@@ -8,5 +8,7 @@ hello/itemservice/domain/item/Item.java
  hello.itemservice.domain.item.Item
 hello/itemservice/domain/item/ItemRepository.java
  hello.itemservice.domain.item.ItemRepository
+hello/itemservice/web/validation/ItemValidator.java
+ hello.itemservice.web.validation.ItemValidator
 hello/itemservice/web/validation/ValidationItemControllerV2.java
  hello.itemservice.web.validation.ValidationItemControllerV2
