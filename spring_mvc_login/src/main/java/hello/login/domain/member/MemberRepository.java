@@ -1,4 +1,4 @@
-package hello.login.web.member;
+package hello.login.domain.member;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;
